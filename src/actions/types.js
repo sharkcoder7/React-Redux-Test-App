@@ -1,0 +1,8 @@
+export const APP_INITIALIZED = 'APP_INITIALIZED';
+export const LOGIN = 'LOGIN';
+export const ADD_POST = 'ADD_POST';
+export const ADD_POST_ERROR = 'ADD_POST_ERROR';
+export const ADD_POST_COMMENT = 'ADD_POST_COMMENT';
+export const ADD_POST_COMMENT_ERROR = 'ADD_POST_COMMENT_ERROR';
+export const FETCH_POST = 'FETCH_POST';
+export const FETCH_POST_DETAILS = 'FETCH_POST_DETAILS';

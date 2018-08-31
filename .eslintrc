@@ -1,0 +1,8 @@
+{
+    "extends": "react-app",
+    "rules": {
+        "no-unused-expressions": "off",
+        "no-undef": "off",
+        "react/jsx-no-undef": "off"
+    }
+}
